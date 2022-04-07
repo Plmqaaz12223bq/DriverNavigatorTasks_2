@@ -19,3 +19,4 @@ return array;
 
 console.log(decending([2,9,0,4]));
 console.log(decending([1,2,3,4]));
+document.getElementById('Result').innerHTML= JSON.stringify(decending([2,9,0,4]));
